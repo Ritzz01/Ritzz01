@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Ritika</h1>
+
 # 💫 About Me:
  I'm a MERN stack developer with a passion for creating dynamic web applications. In my free time, I love traveling to new places and diving into the world of anime, exploring different cultures and stories.
 
